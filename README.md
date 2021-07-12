@@ -13,4 +13,6 @@ En el <footer> detallé direcciones de sucursales, link a mailto y tel, seguido 
   Deje un link en contact.html para acceder a login.html en el texto "note pierdas ninguna noticia ni decuentos PlantBased para nuestras sucursales, suscribirme ahora!"
   Por ultimo el formulario de login, que por alguna razon me lo pone como peligroso para acceder, mayormente un copio y pego de la clase de formulario de boots, no estuve muy original con el form, no pude hacer que me quede en el medio tampoco, JS me trajo pesadillas sinceramente jajaj
   
+  En la rama main esta el archivo sql. hay 3 tablas que detallan los datos de las sucursales, empleados y salarios.
+  
   
